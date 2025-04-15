@@ -376,6 +376,7 @@ int main(int argc, char **argv)
 ```
 
 ## OUTPUT:
+![image](https://github.com/user-attachments/assets/98cc474c-c707-4c64-8770-ee80a4e5aa51)
 
 
 ## RESULT:
